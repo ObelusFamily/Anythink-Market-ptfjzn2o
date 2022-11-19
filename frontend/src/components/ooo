@@ -1,0 +1,3 @@
+ 
+TypeError: Cannot read properties of undefined (reading 'slug') at reducer (http://localhost:3001/static/js/bundle.js:5169:55) at combination (http://localhost:3001/static/js/bundle.js:51658:29) at dispatch (http://localhost:3001/static/js/bundle.js:51899:22) at http://localhost:3001/static/js/bundle.js:51223:17 at http://localhost:3001/static/js/bundle.js:4911:3 at http://localhost:3001/static/js/bundle.js:4897:3 at http://localhost:3001/static/js/bundle.js:46560:18 at Object.dispatch (http://localhost:3001/static/js/bundle.js:51435:18) at http://localhost:3001/static/js/bundle.js:4873:13
+nextSta
