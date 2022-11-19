@@ -29,6 +29,7 @@ const ItemPreview = (props) => {
     }
   };
 
+  console.log("BOOYAH 2")
   return (
     <div
       className="card bg-dark border-light p-3"
