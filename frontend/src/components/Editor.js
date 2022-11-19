@@ -49,7 +49,6 @@ class Editor extends React.Component {
 
     this.submitForm = (ev) => {
       ev.preventDefault();
-      console.log("We were here  BOOYAH")
       const item = {
         title: this.props.title,
         description: this.props.description,
